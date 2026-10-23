@@ -13,11 +13,11 @@
 
 ## Project Information
 * **Supervisor:** Prof. Mohammad Mahmoody
-* **Innovation Expert:** [TBD]
+* **Innovation Expert:** Erhan Dolak
 
 ## Course Deliverables
 *(Links to PDF reports will be added here as they are completed)*
-* [CS 491 - Project Information Form] (#)
+* [CS 491 - Project Information Form] (docs/SENV_Project_Information_Form.pdf)
 * [CS 491 - Analysis Report] (#)
 * [CS 491 - High-Level Design Report] (#)
 * [CS 491 - Low-Level Design Report] (#)
